@@ -3,6 +3,7 @@ Class project to implement a superresolution network.
 I only check in a subset of training data here, just as an example.
 
 ```
+unzip data.zip
 python train.py
 python eval.py --path results/
 ```
